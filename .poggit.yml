@@ -1,10 +1,5 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/piyushbest/SkyWars
 branches:
-- patch-1
+- master
 projects:
-  SkyWars:
-    path: ""
-    libs:
-      - src: poggit/libasynql/libasynql
-        version: ^3.0
 ...
